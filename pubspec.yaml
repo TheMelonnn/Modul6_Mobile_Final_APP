@@ -1,0 +1,42 @@
+name: module_app
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  image_picker: ^1.0.4
+  flutter:
+    sdk: flutter
+  #http
+  http: ^1.0.0
+  #webview
+  webview_flutter: ^4.4.1
+  appwrite: ^11.0.0
+
+  firebase_core: ^2.22.0
+  firebase_auth: ^4.7.3
+  google_fonts: ^6.1.0
+  firebase_messaging: ^14.6.6
+  flutter_local_notifications: ^15.1.0+1
+  
+
+dev_dependencies:
+  mockito: ^5.4.2
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.6
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/fonts/
+  fonts:
+    - family: ebGaramond
+      fonts:
+        - asset: assets/fonts/eb_garamond.ttf
+  uses-material-design: true

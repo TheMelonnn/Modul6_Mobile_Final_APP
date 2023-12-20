@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71440433608",
+    "project_id": "aplikasi-buku-463c4",
+    "storage_bucket": "aplikasi-buku-463c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71440433608:android:c9b983015c40114a1480fd",
+        "android_client_info": {
+          "package_name": "com.example.module_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06XWuWl8zZ-QnEBUmsNrHHUrKqbRKq8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
